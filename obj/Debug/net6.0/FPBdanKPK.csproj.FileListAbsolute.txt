@@ -1,0 +1,30 @@
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.exe
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.deps.json
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.runtimeconfig.json
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.dll
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.pdb
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.csproj.AssemblyReference.cache
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.AssemblyInfoInputs.cache
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.AssemblyInfo.cs
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.csproj.CoreCompileInputs.cache
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.dll
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\refint\FPBdanKPK.dll
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.pdb
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.genruntimeconfig.cache
+D:\SEMESTER 6\MANAGEMENT EVOLUSI RPL\tugas\FPBdanKPK\obj\Debug\net6.0\ref\FPBdanKPK.dll
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.exe
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.deps.json
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.runtimeconfig.json
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.dll
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\bin\Debug\net6.0\FPBdanKPK.pdb
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.csproj.AssemblyReference.cache
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.AssemblyInfoInputs.cache
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.AssemblyInfo.cs
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.csproj.CoreCompileInputs.cache
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.dll
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\refint\FPBdanKPK.dll
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.pdb
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\FPBdanKPK.genruntimeconfig.cache
+D:\SEMESTER 6\KEPROF RPL\tugas\FPBdanKPK\obj\Debug\net6.0\ref\FPBdanKPK.dll
